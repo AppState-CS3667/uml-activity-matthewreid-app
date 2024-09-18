@@ -1,0 +1,8 @@
+1. Shopper, Minor, Adult
+2. Employee
+3. Verb
+4. Noun
+5. The primary actors initiate interactions and are to the left of the system.
+6. The employee reacts to interactions and is to the right of the system.
+7. It indicates that Verify ID might happen during Scan Items.
+8. It indicates that Check Cart for Items DOES happen during Scan Items.
